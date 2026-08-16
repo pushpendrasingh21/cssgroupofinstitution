@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CSS Group of Institutions — Angular Website
 
 Professional responsive Angular website using the supplied CSS Group logo as a transparent PNG.
@@ -23,3 +24,6 @@ Run `npm run build`. The production files will be generated under `dist/css-grou
 
 ## Important
 The enquiry page is currently frontend-only and stores submissions in the visitor's browser. For real admissions enquiries, connect the submit handler to your backend/API, email service, Google Sheets, CRM, or database.
+=======
+# cssgroupofinstitution
+>>>>>>> f9aee3bec18b8b455b7e54e8ca39d8d4b903aa5c
